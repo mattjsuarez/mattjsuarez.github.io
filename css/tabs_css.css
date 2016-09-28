@@ -2,11 +2,6 @@
     http://www.w3schools.com/howto/howto_js_tabs.asp
 */
 
-/*fixes the background image*/
-body {
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
 
 /* Style the list */
 ul.tab {
