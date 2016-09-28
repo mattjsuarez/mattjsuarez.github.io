@@ -1,6 +1,14 @@
 /* REFERENCES
     http://www.w3schools.com/howto/howto_js_tabs.asp
 */
+
+/*fixes the background image*/
+body {
+    background-image: url('w3css.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 /* Style the list */
 ul.tab {
     list-style-type: none;
