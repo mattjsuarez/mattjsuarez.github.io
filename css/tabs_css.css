@@ -2,10 +2,6 @@
     http://www.w3schools.com/howto/howto_js_tabs.asp
 */
 
-#textcontent { 
-    display: inline;
-    border:20px solid black;
-}
 
 /* Style the list */
 ul.tab {
