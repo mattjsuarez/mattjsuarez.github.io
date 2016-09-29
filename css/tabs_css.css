@@ -2,8 +2,12 @@
     http://www.w3schools.com/howto/howto_js_tabs.asp
 */
 
-#textcontent {
-    border:5px solid black;
+#textcontent { 
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
 }
 
 /* Style the list */
