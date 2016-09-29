@@ -2,6 +2,9 @@
     http://www.w3schools.com/howto/howto_js_tabs.asp
 */
 
+#textcontent {
+    border:5px solid black;
+}
 
 /* Style the list */
 ul.tab {
