@@ -46,3 +46,10 @@ ul.tab li a:focus, .active {background-color: #ccc;}
     width: 700px;
     align-self: center;
 }
+
+ body
+{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
